@@ -1,12 +1,12 @@
 # SAIT-challenge
 
 This repository is the implementation of a challenge hosted by SAIT.
-More information about the challenge can be found at https://cechallenge.github.io/.
 
 The challenge addresses the following objectives:
 - optimizing 1) inference time and 2) accuracy of [LLaMA-30B](https://github.com/facebookresearch/llama) on the [hellaswag](https://paperswithcode.com/dataset/hellaswag) validation set from system perspectives.
 
 
+More information about the challenge can be found at https://cechallenge.github.io/.
 
 
 For our optimization, the following codes are utilized:
