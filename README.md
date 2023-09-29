@@ -9,6 +9,7 @@ The challenge addresses the following objectives:
 More information about the challenge can be found at https://cechallenge.github.io/.
 
 
+
 For our optimization, the following codes are utilized:
 1. [LLaMA-30B weights](https://huggingface.co/decapoda-research/llama-30b-hf) revealed in huggingface
 2. [lm-evaluation harness](https://github.com/YounghunGo/lm-evaluation-harness) for evaluation (also support model parallelism)
