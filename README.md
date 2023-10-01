@@ -13,5 +13,6 @@ More information about the challenge can be found at https://cechallenge.github.
 For our optimization, the following codes are utilized:
 1. [LLaMA-30B weights](https://huggingface.co/decapoda-research/llama-30b-hf) revealed in huggingface
 2. [lm-evaluation harness](https://github.com/YounghunGo/lm-evaluation-harness) for evaluation (also support model parallelism)
-3. [deepspeed](https://github.com/microsoft/DeepSpeed) to apply tensor parallelism and inference-optimized kernel technique 
+3. [deepspeed](https://github.com/microsoft/DeepSpeed) to apply tensor parallelism and inference-optimized kernel technique
+4. Dripper - currently not opensourced
    
